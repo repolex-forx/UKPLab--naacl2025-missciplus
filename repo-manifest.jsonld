@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/naacl2025-missciplus/commit/09d51e7cd6f905fcbf1ee4b5796f701fedbceba5",
       "git:hexsha": "09d51e7cd6f905fcbf1ee4b5796f701fedbceba5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
